@@ -10,7 +10,7 @@ ah-cov -cov <country code> || ah-cov --country <country code>
 
 ## ex 
 ```
-npm covid-now --country SA
+npm ah-cov --country SA
 
 Confirmed Cases: 0
 New Confirmed Cases: 0
